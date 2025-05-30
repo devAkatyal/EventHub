@@ -1,1 +1,5 @@
-console.log('Hello');
+//Node.js (JavaScript runtime)
+//Express (Web framework for routing)
+//MongoDB (Database, often used with Mongoose ODM)
+//bcrypt (For hashing passwords)
+//jsonwebtoken (JWT) (For user authentication)
